@@ -27,6 +27,8 @@ Global
 		StaticDebug|x64 = StaticDebug|x64
 		StaticRelease|Win32 = StaticRelease|Win32
 		StaticRelease|x64 = StaticRelease|x64
+		WithLibsodium|Win32 = WithLibsodium|Win32
+		WithLibsodium|x64 = WithLibsodium|x64
 		WithOpenPGM|Win32 = WithOpenPGM|Win32
 		WithOpenPGM|x64 = WithOpenPGM|x64
 	EndGlobalSection
@@ -45,6 +47,10 @@ Global
 		{641C5F36-32EE-4323-B740-992B651CF9D6}.StaticRelease|Win32.ActiveCfg = StaticRelease|Win32
 		{641C5F36-32EE-4323-B740-992B651CF9D6}.StaticRelease|Win32.Build.0 = StaticRelease|Win32
 		{641C5F36-32EE-4323-B740-992B651CF9D6}.StaticRelease|x64.ActiveCfg = StaticRelease|Win32
+		{641C5F36-32EE-4323-B740-992B651CF9D6}.WithLibsodium|Win32.ActiveCfg = WithLibsodium|Win32
+		{641C5F36-32EE-4323-B740-992B651CF9D6}.WithLibsodium|Win32.Build.0 = WithLibsodium|Win32
+		{641C5F36-32EE-4323-B740-992B651CF9D6}.WithLibsodium|x64.ActiveCfg = WithLibsodium|x64
+		{641C5F36-32EE-4323-B740-992B651CF9D6}.WithLibsodium|x64.Build.0 = WithLibsodium|x64
 		{641C5F36-32EE-4323-B740-992B651CF9D6}.WithOpenPGM|Win32.ActiveCfg = WithOpenPGM|Win32
 		{641C5F36-32EE-4323-B740-992B651CF9D6}.WithOpenPGM|Win32.Build.0 = WithOpenPGM|Win32
 		{641C5F36-32EE-4323-B740-992B651CF9D6}.WithOpenPGM|x64.ActiveCfg = WithOpenPGM|x64
@@ -61,6 +67,10 @@ Global
 		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.StaticDebug|x64.ActiveCfg = Debug|x64
 		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.StaticRelease|Win32.ActiveCfg = Release|Win32
 		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.StaticRelease|x64.ActiveCfg = Release|x64
+		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.WithLibsodium|Win32.ActiveCfg = WithLibsodium|Win32
+		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.WithLibsodium|Win32.Build.0 = WithLibsodium|Win32
+		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.WithLibsodium|x64.ActiveCfg = WithLibsodium|x64
+		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.WithLibsodium|x64.Build.0 = WithLibsodium|x64
 		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.WithOpenPGM|Win32.ActiveCfg = Release|Win32
 		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.WithOpenPGM|Win32.Build.0 = Release|Win32
 		{4FDB8C73-9D4A-4D87-A4A9-A7FC06DFEA57}.WithOpenPGM|x64.ActiveCfg = Release|x64
@@ -77,6 +87,10 @@ Global
 		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.StaticDebug|x64.ActiveCfg = Debug|x64
 		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.StaticRelease|Win32.ActiveCfg = Release|Win32
 		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.StaticRelease|x64.ActiveCfg = Release|x64
+		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.WithLibsodium|Win32.ActiveCfg = WithLibsodium|Win32
+		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.WithLibsodium|Win32.Build.0 = WithLibsodium|Win32
+		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.WithLibsodium|x64.ActiveCfg = WithLibsodium|x64
+		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.WithLibsodium|x64.Build.0 = WithLibsodium|x64
 		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.WithOpenPGM|Win32.ActiveCfg = Release|Win32
 		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.WithOpenPGM|Win32.Build.0 = Release|Win32
 		{9C20A37C-5D9F-4C4C-A2D9-E6EE91A077D1}.WithOpenPGM|x64.ActiveCfg = Release|x64
@@ -93,6 +107,10 @@ Global
 		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.StaticDebug|x64.ActiveCfg = Debug|x64
 		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.StaticRelease|Win32.ActiveCfg = Release|Win32
 		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.StaticRelease|x64.ActiveCfg = Release|x64
+		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.WithLibsodium|Win32.ActiveCfg = WithLibsodium|Win32
+		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.WithLibsodium|Win32.Build.0 = WithLibsodium|Win32
+		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.WithLibsodium|x64.ActiveCfg = WithLibsodium|x64
+		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.WithLibsodium|x64.Build.0 = WithLibsodium|x64
 		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.WithOpenPGM|Win32.ActiveCfg = Release|Win32
 		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.WithOpenPGM|Win32.Build.0 = Release|Win32
 		{8EF2DF6B-6646-460F-8032-913B70FE0E94}.WithOpenPGM|x64.ActiveCfg = Release|x64
@@ -109,6 +127,10 @@ Global
 		{B15E059C-0CBB-4A82-8C42-6567FB650802}.StaticDebug|x64.ActiveCfg = Debug|x64
 		{B15E059C-0CBB-4A82-8C42-6567FB650802}.StaticRelease|Win32.ActiveCfg = Release|Win32
 		{B15E059C-0CBB-4A82-8C42-6567FB650802}.StaticRelease|x64.ActiveCfg = Release|x64
+		{B15E059C-0CBB-4A82-8C42-6567FB650802}.WithLibsodium|Win32.ActiveCfg = WithLibsodium|Win32
+		{B15E059C-0CBB-4A82-8C42-6567FB650802}.WithLibsodium|Win32.Build.0 = WithLibsodium|Win32
+		{B15E059C-0CBB-4A82-8C42-6567FB650802}.WithLibsodium|x64.ActiveCfg = WithLibsodium|x64
+		{B15E059C-0CBB-4A82-8C42-6567FB650802}.WithLibsodium|x64.Build.0 = WithLibsodium|x64
 		{B15E059C-0CBB-4A82-8C42-6567FB650802}.WithOpenPGM|Win32.ActiveCfg = Release|Win32
 		{B15E059C-0CBB-4A82-8C42-6567FB650802}.WithOpenPGM|Win32.Build.0 = Release|Win32
 		{B15E059C-0CBB-4A82-8C42-6567FB650802}.WithOpenPGM|x64.ActiveCfg = Release|x64
@@ -125,6 +147,10 @@ Global
 		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.StaticDebug|x64.ActiveCfg = Debug|x64
 		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.StaticRelease|Win32.ActiveCfg = Release|Win32
 		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.StaticRelease|x64.ActiveCfg = Release|x64
+		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.WithLibsodium|Win32.ActiveCfg = WithLibsodium|Win32
+		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.WithLibsodium|Win32.Build.0 = WithLibsodium|Win32
+		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.WithLibsodium|x64.ActiveCfg = WithLibsodium|x64
+		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.WithLibsodium|x64.Build.0 = WithLibsodium|x64
 		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.WithOpenPGM|Win32.ActiveCfg = Release|Win32
 		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.WithOpenPGM|Win32.Build.0 = Release|Win32
 		{6FF7436F-B3F6-4AE9-A3AC-CFDE8A3872A0}.WithOpenPGM|x64.ActiveCfg = Release|x64
@@ -141,6 +167,10 @@ Global
 		{1077E977-95DD-4E73-A692-74647DD0CC1E}.StaticDebug|x64.ActiveCfg = Debug|x64
 		{1077E977-95DD-4E73-A692-74647DD0CC1E}.StaticRelease|Win32.ActiveCfg = Release|Win32
 		{1077E977-95DD-4E73-A692-74647DD0CC1E}.StaticRelease|x64.ActiveCfg = Release|x64
+		{1077E977-95DD-4E73-A692-74647DD0CC1E}.WithLibsodium|Win32.ActiveCfg = WithLibsodium|Win32
+		{1077E977-95DD-4E73-A692-74647DD0CC1E}.WithLibsodium|Win32.Build.0 = WithLibsodium|Win32
+		{1077E977-95DD-4E73-A692-74647DD0CC1E}.WithLibsodium|x64.ActiveCfg = WithLibsodium|x64
+		{1077E977-95DD-4E73-A692-74647DD0CC1E}.WithLibsodium|x64.Build.0 = WithLibsodium|x64
 		{1077E977-95DD-4E73-A692-74647DD0CC1E}.WithOpenPGM|Win32.ActiveCfg = Release|Win32
 		{1077E977-95DD-4E73-A692-74647DD0CC1E}.WithOpenPGM|Win32.Build.0 = Release|Win32
 		{1077E977-95DD-4E73-A692-74647DD0CC1E}.WithOpenPGM|x64.ActiveCfg = Release|x64
